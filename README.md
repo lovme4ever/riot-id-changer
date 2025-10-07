@@ -77,6 +77,7 @@ python main.py
 
 ### Ejemplo
 
+![Example Screenshot](https://github.com/lovme4ever/riot-id-changer/blob/main/ejemplo.png?raw=true)
 ```
 Introduce el nuevo nombre: MiNick
 Introduce el nuevo tag (opcional): 1234
